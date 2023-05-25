@@ -1,0 +1,6 @@
+body {
+  background-color: lightblue;
+  background-image: url(./../assets/images/dino.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
