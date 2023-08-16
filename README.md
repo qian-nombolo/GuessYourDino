@@ -1,8 +1,8 @@
-# Dino Ipsum API
+# Guess Your Dino
 
 #### By _Qian Li_ 😊
 
-#### This is my practice project which demonstrates uses of asynchrony and APIs. It use this `dinosaur themed Lorem Ipsum` API for all kinds of dinasours. Check it out!
+#### This is my practice project which demonstrates uses of asynchrony and APIs. It use this dinosaur themed [ Lorem Ipsum API](https://dinoipsum.com/) for all kinds of dinasours. Check it out!
 
 ## Technologies Used
 
@@ -28,6 +28,11 @@
 
 It will serve as a website to create a dinosaur-themed game where user needs to guess the name of the dinosaur in 7 guesses. Users guess letter by letter, and after 7 guesses, the final answer from the dinosaur themed Lorem Ipsum will appear.
 
+## 🌻 Website Screenshot
+
+* Webpage
+![Screenshot of website](/src/assets/images/screenshot.png)
+
 ## Setup/Installation Requirements
 
 * Clone the project from Github to the local desktop.
@@ -44,5 +49,5 @@ It will serve as a website to create a dinosaur-themed game where user needs to 
 No bugs 
 
 ## License
-[MIT]
+[MIT](license.txt)
 Copyright (c) 2023 Qian Li
